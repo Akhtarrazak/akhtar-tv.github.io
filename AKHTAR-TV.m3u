@@ -1,0 +1,49 @@
+﻿#EXTM3U 
+#EXTINF:-1 group-title="SERIALS" tvg-id="colorshd.in" tvg-name="Colors HD" tvg-logo="https://assets.rstream.me/images/j/tEjAMpwRiI.png" ,Colors HD
+http://opplex.tv:8080/Yousuf/Yousuf/109947
+#EXTINF:-1 group-title="SERIALS" tvg-id="starplushd.in" tvg-name="STAR Plus HD" tvg-logo="https://assets.rstream.me/images/t/RIbBBNnwJc.png" ,STAR Plus HD
+http://opplex.tv:8080/Yousuf/Yousuf/109949
+#EXTINF:-1 group-title="SERIALS" tvg-id="zeetvhd.in" tvg-name="Zee TV HD" tvg-logo="https://assets.rstream.me/images/j/zGGwLLfxPD.png" ,Zee TV HD
+http://opplex.tv:8080/Yousuf/Yousuf/109950
+#EXTINF:-1 group-title="SERIALS" tvg-id="sonysethd.in" tvg-name="SET HD" tvg-logo="https://assets.rstream.me/images/t/NLsiRqLRYL.png" ,SET HD
+http://opplex.tv:8080/Yousuf/Yousuf/109948
+#EXTINF:-1 group-title="SERIALS" tvg-id="sonysabhd.in" tvg-name="SONY SAB HD" tvg-logo="https://assets.rstream.me/images/t/dtOmhgoMaY.png" ,SONY SAB HD
+http://opplex.tv:8080/Yousuf/Yousuf/109953
+#EXTINF:-1 group-title="SERIALS" tvg-id="andtvhd.in" tvg-name="&tv HD" tvg-logo="https://assets.rstream.me/images/j/csvpxaXInm.png" ,&tv HD
+http://opplex.tv:8080/Yousuf/Yousuf/109952
+#EXTINF:-1 group-title="SERIALS" tvg-id="starbharathd.in" tvg-name="Star Bharat HD" tvg-logo="https://assets.rstream.me/images/t/dSqftIllAK.png" ,Star Bharat HD
+http://opplex.tv:8080/Yousuf/Yousuf/66171
+#EXTINF:-1 group-title="MOVIES" tvg-id="sonymaxhd.in" tvg-name="SONY MAX HD" tvg-logo="https://assets.rstream.me/images/j/pIDUhjorxl.png" ,SONY MAX HD
+http://opplex.tv:8080/Yousuf/Yousuf/66179
+#EXTINF: group-title="MOVIES" tvg-id="stargold.uk" tvg-name="Star GOLD HD" tvg-logo="https://assets.rstream.me/images/t/anyAsPsWEm.png" ,Star GOLD HD
+http:\\195.201.82.32:5001\play\a028
+#EXTINF:-1 group-title="MOVIES" tvg-id="stargoldselecthd.in" tvg-name="Star Gold Sel HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/6fd10ee0-29ac-11ec-b454-5fd9312138f5/2271755/399489590.png" ,Star Gold Sel HD
+http://opplex.tv:8080/Yousuf/Yousuf/66176
+#EXTINF:-1 group-title="MOVIES" tvg-id="sonymaxhd.in" tvg-name="Sony MAX 2" tvg-logo="https://assets.rstream.me/images/j/YlcBMtajOc.png" ,Sony MAX2
+http://opplex.tv:8080/Yousuf/Yousuf/206312
+#EXTINF:-1 group-title="MOVIES" tvg-id="b4umovies.in" tvg-name="B4U Movies" tvg-logo="https://assets.rstream.me/images/j/LkBpdGpxlS.png" ,B4U Movies
+http://opplex.tv:8080/Yousuf/Yousuf/104201
+#EXTINF:-1 group-title="MOVIES" tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema HD" tvg-logo="https://assets.rstream.me/images/j/qtOLnpMekV.png" ,Zee Cinema HD
+http://opplex.tv:8080/Yousuf/Yousuf/206307
+#EXTINF:-1 group-title="MOVIES" tvg-id="andpictureshd.in" tvg-name="And Pictures HD" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png" ,And Pictures HD
+http://opplex.tv:8080/Yousuf/Yousuf/66181
+#EXTINF:-1 group-title="SPORTS" tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://assets.rstream.me/images/t/ohdHWeJtjZ.png" ,Star Sports 1 Hindi HD
+http://opplex.tv:8080/Yousuf/Yousuf/109986
+#EXTINF: group-title="NEWS" tvg-id="aajt.ca" tvg-name="Aaj Tak" tvg-logo="https://assets.rstream.me/images/j/lluySSQKyH.png" ,Aaj Tak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-id="zeenews.in" tvg-logo="https://m3u-editor.com/storage/channel-logos/6fd10ee0-29ac-11ec-b454-5fd9312138f5/2271759/465260363.png" ,Zee News
+http://opplex.tv:8080/Yousuf/Yousuf/167673
+#EXTINF: group-title="NEWS" tvg-id="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/6fd10ee0-29ac-11ec-b454-5fd9312138f5/2271759/465317323.png" ,Tv 9 Kannada
+http://vidnetcdn.vidgyor.com/tv9kannada-origin/live/tv9kannada-origin/live3/chunks.m3u8
+#EXTINF: group-title="NEWS" tvg-id="938" tvg-logo="https://m3u-editor.com/storage/channel-logos/6fd10ee0-29ac-11ec-b454-5fd9312138f5/2271759/465318999.png" ,B Tv
+https://vidcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
+#EXTINF: group-title="LSLAMIC" tvg-id="alresalah.ca" tvg-name="Al Quran al Kareem" tvg-logo="https://m3u-editor.com/storage/channel-logos/6fd10ee0-29ac-11ec-b454-5fd9312138f5/2271761/400216931.png" ,Al Quran al Kareem
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF: group-title="LSLAMIC" tvg-id="alsaeedah.mena" tvg-name="Al Medina" tvg-logo="https://m3u-editor.com/storage/channel-logos/6fd10ee0-29ac-11ec-b454-5fd9312138f5/2271761/400216932.png" ,Al Medina
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF: group-title="LSLAMIC" tvg-name="Makkah TV" tvg-logo="https://i.imgur.com/5p2yUBb.png" ,Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="LSLAMIC" tvg-id="aryqtv.pk" tvg-logo="https://m3u-editor.com/storage/channel-logos/6fd10ee0-29ac-11ec-b454-5fd9312138f5/2271761/405851963.png" ,Ary Qtv
+http://opplex.tv:8080/Yousuf/Yousuf/3
+#EXTINF: group-title="LSLAMIC" tvg-id="ts420" tvg-name="Peace TV Urdu" tvg-logo="https://m3u-editor.com/storage/channel-logos/6fd10ee0-29ac-11ec-b454-5fd9312138f5/2271761/401241365.jpg" ,Peace TV Urdu HD
+http://199.223.252.162:8032/urdu_adaptive/index.m3u8
